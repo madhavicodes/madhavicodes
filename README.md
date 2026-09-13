@@ -144,6 +144,18 @@ Modular CMS architecture allowing non-technical staff to update 50+ blog/product
 </td>
 <td width="50%" valign="top">
 
+**🔗 ShortScale — URL Shortener & System Design Lab**
+`Node.js` `Express` `React` `PostgreSQL (Neon)` `Redis (Upstash)`
+
+Full-stack URL shortener and system design lab featuring a sub-5ms redirection pipeline using HTTP 302 responses, Redis caching (SETEX), and Base62 encoding via atomic counters (INCR). Includes robust PostgreSQL fallback for zero-downtime resolution during cache misses, secured APIs with httpOnly JWT cookies, bcrypt hashing, and RBAC. Ships with interactive React tools — a real-time request tracer, Base62 encoder explorer, and a 5-year capacity & QPS storage estimator. Deployed on Render as a unified web service with automated DB migrations and SSL connection pooling.
+
+🔗 [url-shortening.vercel.app](https://url-shortening.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **📌 More projects on GitHub**
 
 Explore additional repositories, experiments, and open-source contributions on my profile.
