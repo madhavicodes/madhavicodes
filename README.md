@@ -164,19 +164,6 @@ Explore additional repositories, experiments, and open-source contributions on m
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavicodes&show_icons=true&theme=radical" alt="Madhavi's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhavicodes&theme=radical" alt="Madhavi's GitHub Streak" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavicodes&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
